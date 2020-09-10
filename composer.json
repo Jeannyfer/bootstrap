@@ -1,0 +1,14 @@
+{
+    "name": "33664/testbootstrap",
+    "description": "test bootstrap",
+    "type": "project",
+    "require": {
+        "components/jquery": "^3.5",
+        "twbs/bootstrap": "^4.5"
+    },
+    "require-dev": {
+        "twbs/bootstrap": "^4.5"
+    },
+    "license": "GPL\t 3.0",
+    "minimum-stability": "stable"
+}
